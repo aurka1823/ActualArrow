@@ -1,0 +1,11 @@
+{
+  "packs": [
+    {
+      "id": "aurka.actualarrow",
+      "name": "ActualArrow",
+      "repo": "aurka1823/ActualArrow",
+      "author": "Aurka",
+      "description": "Сборка ActualArrow: ArrowQueue, TeamVoice, HudQuick, SteamAvatars и др."
+    }
+  ]
+}
