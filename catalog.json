@@ -1,11 +1,10 @@
 {
   "packs": [
     {
-      "id": "aurka.actualarrow",
+      "id": "wlfk.leha_arrow_mods",
       "name": "ActualArrow",
-      "repo": "aurka1823/ActualArrow",
-      "author": "Aurka",
-      "description": "Сборка ActualArrow: ArrowQueue, TeamVoice, HudQuick, SteamAvatars и др."
+      "repo": "wow-png/Leha_Arrow_mods",
+      "description": "Сборка ActualArrow: ArrowQueue, FlatIncomeMod, HudQuick, TeamVoice, база юнитов и др."
     }
   ]
 }
