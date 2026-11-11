@@ -1,14 +1,17 @@
 {
   "packs": [
     {
-      "id": "wlfk.leha_arrow_mods",
-      "name": "ActualArrow",
-      "repo": "wow-png/Leha_Arrow_mods",
-      "description": "Сборка ActualArrow: ArrowQueue, FlatIncomeMod, HudQuick, TeamVoice, база юнитов и др."
+      "id": "aurka.actualarrow_lite",
+      "name": "Actual Arrow Lite",
+      "repo": "aurka1823/ActualArrow-Lite"
     }
   ],
-  "current": "wow-png/Leha_Arrow_mods",
+  "current": "aurka1823/ActualArrow-Lite",
   "hidden": [
+    {
+      "name": "ActualArrow",
+      "repo": "wow-png/Leha_Arrow_mods"
+    },
     {
       "id": "aurka.actualarrow_test",
       "name": "ActualArrow Testing",
