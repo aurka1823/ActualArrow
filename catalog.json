@@ -6,5 +6,19 @@
       "repo": "wow-png/Leha_Arrow_mods",
       "description": "Сборка ActualArrow: ArrowQueue, FlatIncomeMod, HudQuick, TeamVoice, база юнитов и др."
     }
+  ],
+  "current": "wow-png/Leha_Arrow_mods",
+  "hidden": [
+    {
+      "id": "aurka.actualarrow_test",
+      "name": "ActualArrow Testing",
+      "repo": "aurka1823/ActualArrow-test",
+      "author": "Aurka",
+      "description": "Тестовая ветка, только по коду: реплеи, возврат в матч, таймер на карточках",
+      "test_code": {
+        "salt": "f3b49ec7db863ec3dd27bde1a508b0a8",
+        "sha256": "1a790bd1a2a29b788870821238d90391555ff5859dacbec788ba1d4dc0595142"
+      }
+    }
   ]
 }
