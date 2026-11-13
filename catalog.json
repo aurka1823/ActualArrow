@@ -14,7 +14,12 @@
     },
     {
       "name": "ActualArrow Testing",
-      "repo": "aurka1823/ActualArrow-test"
+      "repo": "aurka1823/ActualArrow-test",
+      "description": "Тестовая ветка: Lite 1.0.4 + HeliLanding 2.6.7 (посадка вертолётов: видимость и обнаружение севшего)",
+      "test_code": {
+        "salt": "6b9d8808de575843b6c2d0df308b2f9e",
+        "sha256": "647caf20dbb72e04dc029e51d3f1a8799a7dc097e90a1a5a334032d7ed80bc7c"
+      }
     }
   ]
 }
