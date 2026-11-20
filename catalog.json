@@ -3,8 +3,7 @@
     {
       "id": "aurka.actualarrow",
       "name": "Actual Arrow",
-      "repo": "aurka1823/ActualArrow-Full",
-      "description": "База Герасима, шкала войны, дроны, буксир, брифинг, новая миникарта"
+      "repo": "aurka1823/ActualArrow-Full"
     }
   ],
   "current": "aurka1823/ActualArrow-Full",
@@ -21,7 +20,6 @@
     {
       "name": "ActualArrow Testing",
       "repo": "aurka1823/ActualArrow-test",
-      "description": "Тестовая ветка",
       "test_code": {
         "salt": "e30217ca3c869f1bb28ed69a76cfcea8",
         "sha256": "2d5c3d6e41777c05c2d073fbe88f4bfff765808f614e402ab596b4f8b4ddd6b4"
