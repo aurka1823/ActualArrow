@@ -24,6 +24,15 @@
         "salt": "e30217ca3c869f1bb28ed69a76cfcea8",
         "sha256": "2d5c3d6e41777c05c2d073fbe88f4bfff765808f614e402ab596b4f8b4ddd6b4"
       }
+    },
+    {
+      "id": "aurka.actualarrow_lite_test",
+      "name": "Actual Arrow Lite Test",
+      "repo": "aurka1823/ActualArrow-Lite-Test",
+      "test_code": {
+        "salt": "e6127b9107282675f8e8881ac4a447ab",
+        "sha256": "a5d8363e8014ed6ff63eef7311af82861d82d98a7ec72913fedd02f08238aeda"
+      }
     }
   ]
 }
