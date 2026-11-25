@@ -33,6 +33,11 @@
         "salt": "e6127b9107282675f8e8881ac4a447ab",
         "sha256": "a5d8363e8014ed6ff63eef7311af82861d82d98a7ec72913fedd02f08238aeda"
       }
+    },
+    {
+      "name": "Закрытый тест",
+      "repo": "aurka1823/aa-files",
+      "sealed": true
     }
   ]
 }
