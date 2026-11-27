@@ -1,18 +1,18 @@
 {
   "packs": [
     {
-      "id": "aurka.actualarrow",
-      "name": "Actual Arrow",
-      "repo": "aurka1823/ActualArrow-Full"
-    },
-    {
       "id": "aurka.actualarrow_lite",
       "name": "Actual Arrow Lite",
       "repo": "aurka1823/ActualArrow-Lite"
     }
   ],
-  "current": "aurka1823/ActualArrow-Full",
+  "current": "aurka1823/ActualArrow-Lite",
   "hidden": [
+    {
+      "id": "aurka.actualarrow",
+      "name": "Actual Arrow",
+      "repo": "aurka1823/ActualArrow-Full"
+    },
     {
       "name": "ActualArrow",
       "repo": "wow-png/Leha_Arrow_mods"
