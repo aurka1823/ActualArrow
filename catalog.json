@@ -38,6 +38,11 @@
       "name": "Закрытый тест",
       "repo": "aurka1823/aa-files",
       "sealed": true
+    },
+    {
+      "name": "Закрытый тест 2",
+      "repo": "aurka1823/aa-files-2",
+      "sealed": true
     }
   ]
 }
